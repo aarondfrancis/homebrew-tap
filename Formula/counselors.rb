@@ -1,9 +1,8 @@
 class Counselors < Formula
   desc "Fan out prompts to multiple AI coding agents in parallel"
   homepage "https://github.com/aarondfrancis/counselors"
-  url "https://registry.npmjs.org/counselors/-/counselors-0.4.2.tgz"
-  # Bootstrap value; replace with pinned sha256 once npm DNS is reachable.
-  sha256 :no_check
+  url "https://registry.npmjs.org/counselors/-/counselors-0.4.3.tgz"
+  sha256 "8fa5f0812544d4e679f45be66c7f9170f7d102f455f29a8d3b3dafaa7fad8ab0"
   license "MIT"
 
   depends_on "node"
