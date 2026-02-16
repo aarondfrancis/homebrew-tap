@@ -1,8 +1,8 @@
 class Counselors < Formula
   desc "Fan out prompts to multiple AI coding agents in parallel"
   homepage "https://github.com/aarondfrancis/counselors"
-  url "https://registry.npmjs.org/counselors/-/counselors-0.4.8.tgz"
-  sha256 "80dfacfdfc0fad25460e7321687a57cf3ea6a4c3ccbb1b80ab809db7e9074001"
+  url "https://registry.npmjs.org/counselors/-/counselors-0.4.9.tgz"
+  sha256 "597bb7d4b3670240b41f2a52f494d44365764c104b40ce26bff34af5f9751c31"
   license "MIT"
 
   depends_on "node"
